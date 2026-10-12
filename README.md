@@ -1,0 +1,2 @@
+# CapstoneIndividual
+Capstone individual requirements
